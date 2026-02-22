@@ -63,6 +63,10 @@ Ingénierie LLM, conformité réglementaire santé et SEO augmenté par intellig
 [![Python.ChatGPT.Archive](https://img.shields.io/badge/Python.ChatGPT.Archive-555555?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/venantvr-ia/Python.ChatGPT.Archive) <sup>privé</sup>
  — Archives de conversations IA (exploration, prototypage).
 
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,elasticsearch,git,linux&theme=dark)](https://skillicons.dev)
+
 ## Axes
 
 - **Ingénierie LLM** — Prompt engineering visuel (AXIOM), audit de conformité IA (AuditGuard), SEO génératif (GEO)
